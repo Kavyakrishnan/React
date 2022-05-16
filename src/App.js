@@ -6,12 +6,14 @@ import Register from './components/Register';
 import Navbar from './components/Navbar';
 import Profile from './components/Profile';
 import Student from './components/Student';
+import Counter from './components/Counter';
 function App() {
   return (
     
 <>
-<Student/>
+<Counter/>
 </>
+
   );
 }
 
